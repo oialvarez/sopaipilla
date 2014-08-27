@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+#map {
+	width: 20em;
+	height: 20em;
+}
+.even{
+	background: #CCC;
+}
+.odd{
+	background: #FFF;
+}
+.superfill {
+	width: 23em;
+    height: 35em;
+}
